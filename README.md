@@ -4,7 +4,7 @@
 
 Original library by Francisco Malpartida can be found [here](https://bitbucket.org/fmalpartida/new-liquidcrystal "New LiquidCrystal")
 
-This version is updated for use with a Winstar OLED display like the WEH002004AWPP5N00000.
+This version is updated for use with a Winstar OLED like the WEH002004AWPP5N00000.
 
 ## Introduction ##
 
